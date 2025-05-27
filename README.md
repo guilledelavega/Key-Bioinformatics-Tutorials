@@ -4,6 +4,7 @@
 ---
 
 ## Mosaic Integration Tools
+Mosaic integration in bioinformatics refers to computational methods that integrate heterogeneous single-cell multi-omics datasets—such as transcriptomics, epigenomics, proteomics, and spatial data—often containing missing modalities. This approach enables comprehensive analysis across diverse data types, addressing challenges like modality scalability and batch effects, and is crucial for advancing multi-omics research.
 
 - **MOFA (R)** — [https://biofam.github.io/MOFA2/](https://biofam.github.io/MOFA2/)  
   Multi-Omics Factor Analysis framework for integrating multi-modal data.
