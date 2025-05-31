@@ -27,6 +27,12 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 
 - **Signac (R)**: Toolkit for analyzing single-cell chromatin data, such as ATAC-seq, integrated with Seurat workflows.  
   [Signac PBMC Vignette](https://stuartlab.org/signac/articles/pbmc_vignette.html)
+  
+- **DoubletFinder (R)**: Tool for detecting doublets (artificial merged cells) in single-cell RNA-seq data to improve data quality.  
+  [DoubletFinder GitHub](https://github.com/chris-mcginnis-ucsf/DoubletFinder)
+
+- **Seurat Integration (R)**: Workflow for integrating multiple single-cell datasets to correct batch effects and combine data across experiments.  
+  [Seurat Integration Tutorial](https://satijalab.org/seurat/articles/seurat5_integration)
 
 ---
   
