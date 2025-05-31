@@ -1,14 +1,12 @@
-<table>
-  <tr>
-    <td width="80" align="left" valign="middle">
-      <img src="Logo.jpeg" alt="Logo" width="60"/>
-    </td>
-    <td valign="middle">
-      <h1>Key Bioinformatics Tutorials</h1>
-      <em>Bioinformatics Data and Tutorial Guides</em>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 16px;">
+  <img src="Logo.jpeg" alt="Logo" style="width: 100px; height: auto;"/>
+  <div>
+    <h1 style="margin-bottom: 0;">Key Bioinformatics Tutorials</h1>
+    <em>Bioinformatics Data and Tutorial Guides</em>
+  </div>
+</div>
+
+---
 
 # Key Bioinformatics Tutorials  
 *Bioinformatics Data and Tutorial Guides*
