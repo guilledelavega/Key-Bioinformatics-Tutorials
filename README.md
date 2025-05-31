@@ -31,18 +31,19 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 ---
   
 ## Mosaic Integration Tools
+
 Mosaic integration in bioinformatics refers to computational methods that integrate heterogeneous single-cell multi-omics datasets—such as transcriptomics, epigenomics, proteomics, and spatial data—often containing missing modalities. This approach enables comprehensive analysis across diverse data types, addressing challenges like modality scalability and batch effects, and is crucial for advancing multi-omics research.
 
-- **MOFA (R)** — [https://biofam.github.io/MOFA2/](https://biofam.github.io/MOFA2/)  
-  Multi-Omics Factor Analysis framework for integrating multi-modal data.
+- **MOFA (R)**: Multi-Omics Factor Analysis framework that identifies shared and dataset-specific factors across multi-modal data to facilitate integrative analysis.  
+  [MOFA Documentation](https://biofam.github.io/MOFA2/)
 
-- **LIGER (R)** — [https://github.com/welch-lab/liger](https://github.com/welch-lab/liger)  
-  Linked Inference of Genomic Experimental Relationships for data integration.
+- **LIGER (R)**: Uses integrative non-negative matrix factorization to jointly analyze multiple single-cell datasets, allowing identification of shared and dataset-specific features.  
+  [LIGER GitHub](https://github.com/welch-lab/liger)
 
-- **STABMAP (R)** — [https://github.com/MarioniLab/StabMap](https://github.com/MarioniLab/StabMap)  
-  Statistical framework for integrating single-cell datasets.
+- **STABMAP (R)**: Statistical framework designed to integrate single-cell datasets by accounting for batch effects and other sources of variability.  
+  [STABMAP GitHub](https://github.com/MarioniLab/StabMap)
 
-- **MIDAS (Python)** — [https://github.com/labomics/midas](https://github.com/labomics/midas)  
-  Multi-omics integration with a focus on single-cell data.
+- **MIDAS (Python)**: Toolkit focused on multi-omics integration for single-cell data, enabling discovery of cellular heterogeneity across modalities.  
+  [MIDAS GitHub](https://github.com/labomics/midas)
 
 
