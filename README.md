@@ -2,7 +2,7 @@
 *Bioinformatics Data and Tutorial Guides*
 
 ---
-## Bulk RNA-seq
+## Bulk RNA-seq tools
 
 Bulk RNA-seq analysis involves quantifying gene expression from pooled cell populations. Common tools include:
 
@@ -17,7 +17,7 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 
 ---
 
-## Single-cell RNA-seq and ATAC-seq Technologies
+## Single-cell RNA-seq and ATAC-seq tools
 
 - **scRNAseq Seurat (R)**: Comprehensive toolkit for single-cell RNA-seq data analysis, including clustering, visualization, and integration.  
   [Seurat Documentation](https://satijalab.org/seurat/)
@@ -30,7 +30,7 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 
 ---
   
-## Mosaic Integration Tools
+## Mosaic Integration tools
 
 Mosaic integration in bioinformatics refers to computational methods that integrate heterogeneous single-cell multi-omics datasets—such as transcriptomics, epigenomics, proteomics, and spatial data—often containing missing modalities. This approach enables comprehensive analysis across diverse data types, addressing challenges like modality scalability and batch effects, and is crucial for advancing multi-omics research.
 
@@ -46,4 +46,24 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **MIDAS (Python)**: Toolkit focused on multi-omics integration for single-cell data, enabling discovery of cellular heterogeneity across modalities.  
   [MIDAS GitHub](https://github.com/labomics/midas)
 
+---
+  ## Spatial Transcriptomics Tools
 
+### Image-based Data
+- **Seurat Spatial (Image-based)**: Comprehensive workflow for analyzing image-based spatial transcriptomics data using Seurat.  
+  [Seurat Spatial Vignette](https://satijalab.org/seurat/articles/seurat5_spatial_vignette_2)
+
+### VISIUM HD
+- **Seurat VISIUM HD**: Analysis pipeline tailored for high-definition VISIUM spatial transcriptomics data.  
+  [Seurat VISIUM HD Vignette](https://satijalab.org/seurat/articles/visiumhd_analysis_vignette)
+
+### Sequencing-based Data
+- **Seurat Spatial (Sequencing-based)**: Tutorial for processing and analyzing sequencing-based spatial transcriptomics data.  
+  [Seurat Spatial Sequencing Vignette](https://satijalab.org/seurat/articles/spatial_vignette)
+
+### Other Tools
+- **lisaClust**: Bioconductor package for clustering and analyzing spatial transcriptomics data.  
+  [lisaClust Bioconductor](https://www.bioconductor.org/packages/release/bioc/vignettes/lisaClust/inst/doc/lisaClust.html) | [lisaClust GitHub](https://github.com/SydneyBioX/lisaClust)
+
+- **Banksy**: An R package for spatial transcriptomics analysis focusing on spatial autocorrelation and gene expression patterns.  
+  [Banksy Documentation](https://prabhakarlab.github.io/Banksy/)
