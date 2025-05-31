@@ -1,3 +1,15 @@
+<table>
+  <tr>
+    <td width="80" align="left" valign="middle">
+      <img src="Logo.jpeg" alt="Logo" width="60"/>
+    </td>
+    <td valign="middle">
+      <h1>Key Bioinformatics Tutorials</h1>
+      <em>Bioinformatics Data and Tutorial Guides</em>
+    </td>
+  </tr>
+</table>
+
 # Key Bioinformatics Tutorials  
 *Bioinformatics Data and Tutorial Guides*
 
