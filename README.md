@@ -1,10 +1,14 @@
-<div style="display: flex; align-items: center; gap: 16px;">
-  <img src="Logo.jpeg" alt="Logo" style="width: 100px; height: auto;"/>
-  <div>
-    <h1 style="margin-bottom: 0;">Key Bioinformatics Tutorials</h1>
-    <em>Bioinformatics Data and Tutorial Guides</em>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 16px;">
+      <img src="Logo.jpeg" alt="Logo" width="100"/>
+    </td>
+    <td style="vertical-align: middle;">
+      <h1 style="margin-bottom: 0;">Key Bioinformatics Tutorials</h1>
+      <em>Bioinformatics Data and Tutorial Guides</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
