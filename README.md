@@ -6,7 +6,7 @@
 
 ## Single-cell RNA-seq and ATAC-seq Technologies
 
--scRNAseq Seurat: https://satijalab.org/seurat/
+- **scRNAseq Seurat (R)**: [https://docs.scvi-tools.org/en/1.0.0/index.html](https://satijalab.org/seurat/)
 
 - **SCVI-tools (Python)** — [https://docs.scvi-tools.org/en/1.0.0/index.html](https://docs.scvi-tools.org/en/1.0.0/index.html)  
   Probabilistic models for single-cell RNA-seq data analysis.
