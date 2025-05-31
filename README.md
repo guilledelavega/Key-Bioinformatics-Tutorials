@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="vertical-align: middle; padding-right: 16px;">
+    <td style="vertical-align: middle; padding-right: 18px;">
       <img src="Logo.jpeg" alt="Logo" width="100"/>
     </td>
     <td style="vertical-align: middle;">
