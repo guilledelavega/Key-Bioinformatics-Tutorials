@@ -90,13 +90,13 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **Seurat Spatial (Image-based)**: Comprehensive workflow for analyzing image-based spatial transcriptomics data using Seurat.  
   [Seurat Spatial Vignette](https://satijalab.org/seurat/articles/seurat5_spatial_vignette_2)
 
-### VISIUM HD
-- **Seurat VISIUM HD**: Analysis pipeline tailored for high-definition VISIUM spatial transcriptomics data.  
-  [Seurat VISIUM HD Vignette](https://satijalab.org/seurat/articles/visiumhd_analysis_vignette)
-
 ### Sequencing-based Data
 - **Seurat Spatial (Sequencing-based)**: Tutorial for processing and analyzing sequencing-based spatial transcriptomics data.  
   [Seurat Spatial Sequencing Vignette](https://satijalab.org/seurat/articles/spatial_vignette)
+
+### VISIUM HD
+- **Seurat VISIUM HD**: Analysis pipeline tailored for high-definition VISIUM spatial transcriptomics data.  
+  [Seurat VISIUM HD Vignette](https://satijalab.org/seurat/articles/visiumhd_analysis_vignette)
 
 ### Other Tools
 - **lisaClust**: Bioconductor package for clustering and analyzing spatial transcriptomics data.  
