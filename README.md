@@ -11,11 +11,6 @@
 </table>
 
 ---
-
-# Key Bioinformatics Tutorials  
-*Bioinformatics Data and Tutorial Guides*
-
----
 ## Bulk RNA-seq tools
 
 Bulk RNA-seq analysis involves quantifying gene expression from pooled cell populations. Common tools include:
