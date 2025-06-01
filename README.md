@@ -31,7 +31,17 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
   [decoupleR GitHub](https://github.com/saezlab/decoupleR) 
 
 - **Gene Set Testing Tutorial (R)**: Hands-on guide for covering gene-set enrichment analysis (GSEA) on RNA-seq data.  
-  [GSEA Tutorial](https://bioinformatics-core-shared-training.github.io/RNAseq_September_2019/html/06_Gene_set_testing.html) 
+  [GSEA Tutorial](https://bioinformatics-core-shared-training.github.io/RNAseq_September_2019/html/06_Gene_set_testing.html)
+
+- **ComBat-seq (R)**: Performs batch-effect correction on RNA-seq *count* data with a negative-binomial regression.  
+  [ComBat-seq tutorial](https://rnabio.org/module-03-expression/0003/06/02/Batch-Correction/)
+
+- **RUVSeq – Remove Unwanted Variation (R)**: Suite of methods that estimate hidden factors causing technical variation and incorporate them into downstream DE models for cleaner differential-expression results. 
+  [RUVSeq vignette](https://www.bioconductor.org/packages/release/bioc/vignettes/RUVSeq/inst/doc/RUVSeq.html) 
+
+- **WGCNA (R)**: Builds weighted gene-co-expression networks to cluster genes into modules and relate those modules to phenotypes, enabling discovery of regulatory programs in bulk RNA-seq datasets.  
+  [WGCNA tutorial 1](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/wgcna.html#gsc.tab=0) · [WGCNA tutorial 2](https://fuzzyatelin.github.io/bioanth-stats/module-F21-Group1/module-F21-Group1.html) 
+
 
 ---
 
@@ -51,6 +61,9 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 
 - **Seurat Integration (R)**: Workflow for integrating multiple single-cell datasets to correct batch effects and combine data across experiments.  
   [Seurat Integration Tutorial](https://satijalab.org/seurat/articles/seurat5_integration)
+
+- **decoupleR (R)**: Framework that bundles multiple statistical methods to infer transcription-factor and pathway activities from omics data.
+  [decoupleR GitHub](https://github.com/saezlab/decoupleR)
 
 ---
   
