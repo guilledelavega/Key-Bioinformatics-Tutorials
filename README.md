@@ -25,13 +25,13 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
   [limma-voom Tutorial](https://ucdavis-bioinformatics-training.github.io/2018-June-RNA-Seq-Workshop/thursday/DE.html)
 
 - **PUREE (Python)**: Compact and fast machine-learning method that estimates tumour purity (cancer-cell fraction) directly from bulk RNA-seq expression profiles.  
-  [PUREE GitHub](https://github.com/skandlab/PUREE) :contentReference[oaicite:0]{index=0}
+  [PUREE GitHub](https://github.com/skandlab/PUREE) 
 
-- **decoupleR (R)**: Framework that bundles multiple statistical methods to infer transcription-factor and pathway activities from omics data using signed, weighted gene-regulatory networks.  
-  [decoupleR GitHub](https://github.com/saezlab/decoupleR) :contentReference[oaicite:1]{index=1}
+- **decoupleR (R)**: Framework that bundles multiple statistical methods to infer transcription-factor and pathway activities from omics data.
+  [decoupleR GitHub](https://github.com/saezlab/decoupleR) 
 
-- **Gene Set Testing Tutorial (R)**: Hands-on guide from the Cambridge Bioinformatics Training Facility covering gene-set enrichment analysis (GSEA, camera, roast) on RNA-seq data.  
-  [Tutorial](https://bioinformatics-core-shared-training.github.io/RNAseq_September_2019/html/06_Gene_set_testing.html) :contentReference[oaicite:2]{index=2}
+- **Gene Set Testing Tutorial (R)**: Hands-on guide for covering gene-set enrichment analysis (GSEA) on RNA-seq data.  
+  [GSEA Tutorial](https://bioinformatics-core-shared-training.github.io/RNAseq_September_2019/html/06_Gene_set_testing.html) 
 
 ---
 
