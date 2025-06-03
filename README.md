@@ -45,7 +45,7 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 
 ---
 
-## Single-cell RNA-seq and ATAC-seq tools
+# Single-cell RNA-seq and ATAC-seq tools
 
 - **scRNAseq Seurat (R)**: Comprehensive toolkit for single-cell RNA-seq data analysis, including clustering, visualization, and integration.  
   [Seurat Documentation](https://satijalab.org/seurat/)
@@ -70,7 +70,7 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 
 ---
   
-## Mosaic Integration tools
+# Mosaic Integration tools
 
 Mosaic integration in bioinformatics refers to computational methods that integrate heterogeneous single-cell multi-omics datasets—such as transcriptomics, epigenomics, proteomics, and spatial data—often containing missing modalities. This approach enables comprehensive analysis across diverse data types, addressing challenges like modality scalability and batch effects, and is crucial for advancing multi-omics research.
 
@@ -87,7 +87,7 @@ Mosaic integration in bioinformatics refers to computational methods that integr
   [MIDAS GitHub](https://github.com/labomics/midas)
 
 ---
-  ## Spatial Transcriptomics Tools
+# Spatial Transcriptomics Tools
 
 ### Image-based Data
 - **Seurat Spatial (Image-based) (R)**: Comprehensive workflow for analyzing image-based spatial transcriptomics data using Seurat.  
