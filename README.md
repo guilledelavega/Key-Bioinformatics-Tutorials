@@ -105,6 +105,6 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **Banksy**: An R package for spatial transcriptomics analysis focusing on spatial autocorrelation and gene expression patterns.  
   [Banksy Documentation](https://prabhakarlab.github.io/Banksy/)
 
-- **SPLIT (R)**: Spatial Purification of Layered Intracellular Transcripts in Xenium Data, a novel method that integrates scRNA-seq with RCTD deconvolution to enhance signal purity.
-  [SPLIT Github](https://github.com/bdsc-tds/SPLIT?tab=readme-ov-file)
+- **SPLIT (R)**: Spatial Purification of Layered Intracellular Transcripts in Xenium Data, a novel method that integrates scRNA-seq with RCTD deconvolution to enhance signal purity.  
+[SPLIT Github](https://github.com/bdsc-tds/SPLIT?tab=readme-ov-file)
   
