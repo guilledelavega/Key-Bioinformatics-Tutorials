@@ -107,3 +107,4 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 
 - **SPLIT (R)**: Spatial Purification of Layered Intracellular Transcripts, a novel method that integrates scRNA-seq with RCTD deconvolution to enhance signal purity.
   [SPLIT Github](https://github.com/bdsc-tds/SPLIT?tab=readme-ov-file)
+  
