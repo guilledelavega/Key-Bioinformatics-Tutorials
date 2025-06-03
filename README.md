@@ -65,6 +65,9 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **decoupleR (R)**: Framework that bundles multiple statistical methods to infer transcription-factor and pathway activities from omics data.
   [decoupleR GitHub](https://github.com/saezlab/decoupleR)
 
+  - **sccomp**: An R package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
+  [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html)
+
 ---
   
 ## Mosaic Integration tools
@@ -107,4 +110,7 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 
 - **SPLIT (R)**: Spatial Purification of Layered Intracellular Transcripts in Xenium Data, a novel method that integrates scRNA-seq with RCTD deconvolution to enhance signal purity.  
 [SPLIT Github](https://github.com/bdsc-tds/SPLIT?tab=readme-ov-file)
+
+- **sccomp**: An R package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
+  [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html)
   
