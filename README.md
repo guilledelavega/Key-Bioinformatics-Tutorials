@@ -11,7 +11,7 @@
 </table>
 
 ---
-## Bulk RNA-seq tools
+# Bulk RNA-seq tools
 
 Bulk RNA-seq analysis involves quantifying gene expression from pooled cell populations. Common tools include:
 
