@@ -65,7 +65,7 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **decoupleR (R)**: Framework that bundles multiple statistical methods to infer transcription-factor and pathway activities from omics data.
   [decoupleR GitHub](https://github.com/saezlab/decoupleR)
 
-- **sccomp**: An R package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
+- **sccomp (R)**: Package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
   [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html)
 
 ---
@@ -90,27 +90,27 @@ Mosaic integration in bioinformatics refers to computational methods that integr
   ## Spatial Transcriptomics Tools
 
 ### Image-based Data
-- **Seurat Spatial (Image-based)**: Comprehensive workflow for analyzing image-based spatial transcriptomics data using Seurat.  
+- **Seurat Spatial (Image-based) (R)**: Comprehensive workflow for analyzing image-based spatial transcriptomics data using Seurat.  
   [Seurat Spatial Vignette](https://satijalab.org/seurat/articles/seurat5_spatial_vignette_2)
 
 ### Sequencing-based Data
-- **Seurat Spatial (Sequencing-based)**: Tutorial for processing and analyzing sequencing-based spatial transcriptomics data.  
+- **Seurat Spatial (Sequencing-based) (R)**: Tutorial for processing and analyzing sequencing-based spatial transcriptomics data.  
   [Seurat Spatial Sequencing Vignette](https://satijalab.org/seurat/articles/spatial_vignette)
 
 ### VISIUM HD
-- **Seurat VISIUM HD**: Analysis pipeline tailored for high-definition VISIUM spatial transcriptomics data.  
+- **Seurat VISIUM HD (R)**: Analysis pipeline tailored for high-definition VISIUM spatial transcriptomics data.  
   [Seurat VISIUM HD Vignette](https://satijalab.org/seurat/articles/visiumhd_analysis_vignette)
 
 ### Other Tools
-- **lisaClust**: Bioconductor package for clustering and analyzing spatial transcriptomics data.  
+- **lisaClust (R)**: Bioconductor package for clustering and analyzing spatial transcriptomics data.  
   [lisaClust Bioconductor](https://www.bioconductor.org/packages/release/bioc/vignettes/lisaClust/inst/doc/lisaClust.html) | [lisaClust GitHub](https://github.com/SydneyBioX/lisaClust)
 
-- **Banksy**: An R package for spatial transcriptomics analysis focusing on spatial autocorrelation and gene expression patterns.  
+- **Banksy (R)**: Package for spatial transcriptomics analysis focusing on spatial autocorrelation and gene expression patterns.  
   [Banksy Documentation](https://prabhakarlab.github.io/Banksy/)
 
 - **SPLIT (R)**: Spatial Purification of Layered Intracellular Transcripts in Xenium Data, a novel method that integrates scRNA-seq with RCTD deconvolution to enhance signal purity.  
 [SPLIT Github](https://github.com/bdsc-tds/SPLIT?tab=readme-ov-file)
 
-- **sccomp**: An R package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
+- **sccomp (R)**: Package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
   [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html)
   
