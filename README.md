@@ -103,10 +103,8 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 
 ### Other Tools
 - **spacexr (R)**: Spatial cell type deconvolution using RCTD (Robust Cell Type Deconvolution). RCTD estimates the proportion of different cell types at each spatial location by combining spatial data with reference gene expression profiles of cell types.  
-
   [spacexr GitHub](https://github.com/dmcable/spacexr) | [spacexr Tutorial Bioconductor](https://www.bioconductor.org/packages/release/bioc/vignettes/spacexr/inst/doc/rctd-tutorial.html)
 
-  
 - **lisaClust (R)**: Bioconductor package for clustering and analyzing spatial transcriptomics data.  
   [lisaClust Bioconductor](https://www.bioconductor.org/packages/release/bioc/vignettes/lisaClust/inst/doc/lisaClust.html) | [lisaClust GitHub](https://github.com/SydneyBioX/lisaClust)
 
