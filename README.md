@@ -65,6 +65,12 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **decoupleR (R)**: Framework that bundles multiple statistical methods to infer transcription-factor and pathway activities from omics data.
   [decoupleR GitHub](https://github.com/saezlab/decoupleR)
 
+- **SComatic (Python)**: Functionalities to detect somatic single-nucleotide mutations in single-cell RNA-seq and single-cell ATAC-seq.
+  [SComatic GitHub](https://github.com/cortes-ciriano-lab/SComatic)
+
+- **InferCNV (R/Python)**: Tool to identify somatic large-scale chromosomal copy number alterations, such as gains or deletions of entire chromosomes or large segments of chromosomes.
+  [InferCNV GitHub](https://github.com/broadinstitute/inferCNV/wiki)
+
 - **sccomp (R)**: Package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
   [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html)
 
