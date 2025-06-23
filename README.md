@@ -53,6 +53,9 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **Scanpy (Python)**: Comprehensive framework for the analysis of single-cell gene expression data.  
   [Scanpy Tutorial](https://scanpy.readthedocs.io/en/1.10.x/tutorials/spatial/basic-analysis.html)
 
+- **OSCA (R)**: Orchestrating Single-Cell Analysis with Bioconductor book, which teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq).  
+[OSCA Bioconductor](https://bioconductor.org/books/release/OSCA/)
+
 - **SCVI-tools (Python)**: Probabilistic models for single-cell RNA-seq data analysis enabling batch correction, imputation, and clustering.  
   [SCVI-tools Documentation](https://docs.scvi-tools.org/en/1.0.0/index.html)
 
