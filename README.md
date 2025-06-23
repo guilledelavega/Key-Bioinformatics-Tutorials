@@ -36,8 +36,8 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **ComBat-seq (R)**: Performs batch-effect correction on RNA-seq *count* data with a negative-binomial regression.  
   [ComBat-seq tutorial](https://rnabio.org/module-03-expression/0003/06/02/Batch-Correction/)
 
-- **RUVSeq – Remove Unwanted Variation (R)**: Suite of methods that estimate hidden factors causing technical variation and incorporate them into downstream DE models for cleaner differential-expression results. 
-  [RUVSeq vignette](https://www.bioconductor.org/packages/release/bioc/vignettes/RUVSeq/inst/doc/RUVSeq.html) 
+- **RUVSeq – Remove Unwanted Variation (R)**: Suite of methods that estimate hidden factors causing technical variation and incorporate them into downstream DE models for cleaner differential-expression results.  
+  [RUVSeq vignette](https://www.bioconductor.org/packages/release/bioc/vignettes/RUVSeq/inst/doc/RUVSeq.html)
 
 - **WGCNA (R)**: Builds weighted gene-co-expression networks to cluster genes into modules and relate those modules to phenotypes, enabling discovery of regulatory programs in bulk RNA-seq datasets.  
   [WGCNA tutorial 1](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/wgcna.html#gsc.tab=0) · [WGCNA tutorial 2](https://fuzzyatelin.github.io/bioanth-stats/module-F21-Group1/module-F21-Group1.html) 
@@ -68,7 +68,7 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **SComatic (Python)**: Functionalities to detect somatic single-nucleotide mutations in single-cell RNA-seq and single-cell ATAC-seq.
   [SComatic GitHub](https://github.com/cortes-ciriano-lab/SComatic)
 
-- **InferCNV (R/Python)**: Tool to identify somatic large-scale chromosomal copy number alterations, such as gains or deletions of entire chromosomes or large segments of chromosomes.
+- **InferCNV (R/Python)**: Tool to identify somatic large-scale chromosomal copy number alterations, such as gains or deletions of entire chromosomes or large segments of chromosomes.  
   [InferCNV GitHub](https://github.com/broadinstitute/inferCNV/wiki)
 
 - **sccomp (R)**: Package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
@@ -126,6 +126,5 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **sccomp (R)**: Package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
   [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html) | [sccomp explanation](https://www.sc-best-practices.org/conditions/compositional.html#why-cell-type-count-data-is-compositional)
 
-- **statial (R)**: Toolkit for spatially resolved transcriptomics data analysis, focusing on spatial neighborhood analysis and cell-cell interaction statistics.
- [statial Bioconductor](https://www.bioconductor.org/packages/release/bioc/vignettes/Statial/inst/doc/Statial.html#region-analysis-using-lisaclust)
-  
+- **statial (R)**: Toolkit for spatially resolved transcriptomics data analysis, focusing on spatial neighborhood analysis and cell-cell interaction statistics.  
+  [statial Bioconductor](https://www.bioconductor.org/packages/release/bioc/vignettes/Statial/inst/doc/Statial.html#region-analysis-using-lisaclust)
