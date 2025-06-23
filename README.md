@@ -127,5 +127,5 @@ Mosaic integration in bioinformatics refers to computational methods that integr
   [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html) | [sccomp explanation](https://www.sc-best-practices.org/conditions/compositional.html#why-cell-type-count-data-is-compositional)
 
 - **statial (R)**: Toolkit for spatially resolved transcriptomics data analysis, focusing on spatial neighborhood analysis and cell-cell interaction statistics.
- [sccomp Bioconductor]([https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html(https://www.bioconductor.org/packages/release/bioc/vignettes/Statial/inst/doc/Statial.html#spatiomark-identifying-continuous-changes-in-cell-state))
+ [statial Bioconductor](https://www.bioconductor.org/packages/release/bioc/vignettes/Statial/inst/doc/Statial.html#region-analysis-using-lisaclust)
   
