@@ -50,6 +50,9 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **scRNAseq Seurat (R)**: Comprehensive toolkit for single-cell RNA-seq data analysis, including clustering, visualization, and integration.  
   [Seurat Documentation](https://satijalab.org/seurat/)
 
+- **Scanpy (Python)**: Comprehensive framework for the analysis of single-cell gene expression data.  
+  [Scanpy Tutorial](https://scanpy.readthedocs.io/en/1.10.x/tutorials/spatial/basic-analysis.html)
+
 - **SCVI-tools (Python)**: Probabilistic models for single-cell RNA-seq data analysis enabling batch correction, imputation, and clustering.  
   [SCVI-tools Documentation](https://docs.scvi-tools.org/en/1.0.0/index.html)
 
@@ -131,3 +134,6 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 
 - **CRAWDAD (R)**: Statistical framework that uses cell-type labeled spatial omics data to identify the colocalization or separation of cell types at different length scales.  
   [CRAWDAD Github](https://github.com/JEFworks-Lab/CRAWDAD)
+
+- **Scanpy (Python)**: Comprehensive framework for the analysis of single-cell gene expression data.  
+  [Scanpy Tutorial](https://scanpy.readthedocs.io/en/1.10.x/tutorials/spatial/basic-analysis.html)
