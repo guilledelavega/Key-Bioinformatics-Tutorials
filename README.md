@@ -129,5 +129,5 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **statial (R)**: Toolkit for spatially resolved transcriptomics data analysis, focusing on spatial neighborhood analysis and cell-cell interaction statistics.  
   [statial Bioconductor](https://www.bioconductor.org/packages/release/bioc/vignettes/Statial/inst/doc/Statial.html#region-analysis-using-lisaclust)
 
-- **CRAWDAD (R)**: Statistical framework that uses cell-type labeled spatial omics data to identify the colocalization or separation of cell types at different length scales. 
+- **CRAWDAD (R)**: Statistical framework that uses cell-type labeled spatial omics data to identify the colocalization or separation of cell types at different length scales.  
   [CRAWDAD Github](https://github.com/JEFworks-Lab/CRAWDAD)
