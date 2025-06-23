@@ -72,7 +72,7 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
   [InferCNV GitHub](https://github.com/broadinstitute/inferCNV/wiki)
 
 - **sccomp (R)**: Package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
-  [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html)
+  [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html) | [sccomp explanation](https://www.sc-best-practices.org/conditions/compositional.html#why-cell-type-count-data-is-compositional)
 
 ---
   
@@ -120,6 +120,11 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **SPLIT (R)**: Spatial Purification of Layered Intracellular Transcripts in Xenium Data, a novel method that integrates scRNA-seq with RCTD deconvolution to enhance signal purity.  
 [SPLIT Github](https://github.com/bdsc-tds/SPLIT?tab=readme-ov-file)
 
-- **sccomp (R)**: Package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
-  [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html)
+- **spicyR (R)**:  Provides a framework for performing inference on changes in spatial relationships between pairs of cell types for cell-resolution spatial omics technologiesell imaging data.  
+  [spicyR Bioconductor]([https://github.com/elo073/spicyR](https://www.bioconductor.org/packages/release/bioc/vignettes/spicyR/inst/doc/spicyR.html)
+
+- **sccomp (R)**: Package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.
+
+- **statial (R)**: Toolkit for spatially resolved transcriptomics data analysis, focusing on spatial neighborhood analysis and cell-cell interaction statistics.
+ [sccomp Bioconductor]([https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html(https://www.bioconductor.org/packages/release/bioc/vignettes/Statial/inst/doc/Statial.html#spatiomark-identifying-continuous-changes-in-cell-state))
   
