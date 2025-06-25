@@ -100,6 +100,8 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 
 ---
 # Spatial Transcriptomics Tools
+ - **Squidpy (Python)** : Tutorials showcasing core Squidpy functionalities by applying them to a diverse set of different spatial datasets.  
+  [Squidpy Documentation](https://squidpy.readthedocs.io/en/stable/notebooks/tutorials/index.html)
 
 ### Image-based Data
 - **Seurat Spatial (Image-based) (R)**: Comprehensive workflow for analyzing image-based spatial transcriptomics data using Seurat.  
@@ -108,6 +110,9 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 ### Sequencing-based Data
 - **Seurat Spatial (Sequencing-based) (R)**: Tutorial for processing and analyzing sequencing-based spatial transcriptomics data.  
   [Seurat Spatial Sequencing Vignette](https://satijalab.org/seurat/articles/spatial_vignette)
+  
+- **Scanpy (Python)**: Comprehensive framework for the analysis of single-cell gene expression data.  
+  [Scanpy Visium Tutorial](https://scanpy-tutorials.readthedocs.io/en/latest/spatial/basic-analysis.html#visualization-in-spatial-coordinates)
 
 ### VISIUM HD
 - **Seurat VISIUM HD (R)**: Analysis pipeline tailored for high-definition VISIUM spatial transcriptomics data.  
