@@ -86,6 +86,9 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **CellChat (R)**: Computational framework designed for inferring, analyzing, and visualizing cell-cell communication.   
   [CellChat GitHub](https://github.com/jinworks/CellChat)
 
+- **Nichenet (R)**:It predicts how ligands from sender cells influence gene expression in receiver cells by linking cell–cell communication signals to target gene regulation.  
+  [Nichenet GitHub](https://github.com/saeyslab/nichenetr?tab=readme-ov-file)
+
 ---
   
 # Mosaic Integration tools
