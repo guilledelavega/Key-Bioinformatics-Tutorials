@@ -80,6 +80,12 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **sccomp (R)**: Package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
   [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html) | [sccomp explanation](https://www.sc-best-practices.org/conditions/compositional.html#why-cell-type-count-data-is-compositional)
 
+- **Liana (R)**: Computational framework designed to analyze and infer cell-cell communication (CCC) by studying interactions between ligands and receptors.  
+  [Liana Tutorial](https://saezlab.github.io/liana/)
+
+- **CellChat (R)**: Computational framework designed for inferring, analyzing, and visualizing cell-cell communication.   
+  [CellChat GitHub](https://github.com/jinworks/CellChat)
+
 ---
   
 # Mosaic Integration tools
@@ -145,3 +151,6 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 
 - **Scanpy (Python)**: Comprehensive framework for the analysis of single-cell gene expression data.  
   [Scanpy Tutorial](https://scanpy.readthedocs.io/en/1.10.x/tutorials/spatial/basic-analysis.html)
+
+- **CellChat (R)**: Computational framework designed for inferring, analyzing, and visualizing cell-cell communication.   
+  [CellChat GitHub](https://github.com/jinworks/CellChat)
