@@ -40,7 +40,10 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
   [RUVSeq vignette](https://www.bioconductor.org/packages/release/bioc/vignettes/RUVSeq/inst/doc/RUVSeq.html)
 
 - **WGCNA (R)**: Builds weighted gene-co-expression networks to cluster genes into modules and relate those modules to phenotypes, enabling discovery of regulatory programs in bulk RNA-seq datasets.  
-  [WGCNA tutorial 1](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/wgcna.html#gsc.tab=0) · [WGCNA tutorial 2](https://fuzzyatelin.github.io/bioanth-stats/module-F21-Group1/module-F21-Group1.html) 
+  [WGCNA tutorial 1](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/wgcna.html#gsc.tab=0) · [WGCNA tutorial 2](https://fuzzyatelin.github.io/bioanth-stats/module-F21-Group1/module-F21-Group1.html)
+
+- **tximport (R)**: Imports transcript-level estimates from pseudo - genome aligners(e.g., from kallisto/salmon) and summarizes them to gene-level count/abundance matrices—optionally length-scaled—so they can be used directly in DESeq2/edgeR/limma while retaining proper variance information.
+  [tximport tutorial](https://bioconductor.org/packages/devel/bioc/vignettes/tximport/inst/doc/tximport.html)
 
 
 ---
