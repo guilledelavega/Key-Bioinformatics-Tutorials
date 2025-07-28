@@ -45,6 +45,9 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **tximport (R)**: Imports transcript-level estimates from pseudo - genome aligners(e.g., from kallisto/salmon) and summarizes them to gene-level count/abundance matrices—optionally length-scaled—so they can be used directly in DESeq2/edgeR/limma while retaining proper variance information.
   [tximport tutorial](https://bioconductor.org/packages/devel/bioc/vignettes/tximport/inst/doc/tximport.html)
 
+- **variancePartition (R)**: General framework for understanding drivers of variation in gene expression in experiments with complex designs.
+  [variancePartition Tutorial](https://www.bioconductor.org/packages/release/bioc/vignettes/variancePartition/inst/doc/variancePartition.html)
+
 
 ---
 
