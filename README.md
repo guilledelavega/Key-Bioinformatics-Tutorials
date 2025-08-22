@@ -170,6 +170,6 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 
 ---
   
-# Protein Design & Analysis Tools
+# Protein Design Tools
 - **Generative-protein-design-workshop (Python)**: Hands-on workshop introducing generative models for protein design. Provides tutorials and notebooks to build, train, and evaluate pipelines for creating novel protein sequences.  
   [Generative Protein Design Workshop · GitHub](https://github.com/romainstuder/evosite3d/tree/master/tutorials/generative-protein-design-workshop)
