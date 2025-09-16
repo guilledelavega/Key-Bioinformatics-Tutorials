@@ -174,6 +174,9 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **Generative-protein-design-workshop (Python)**: Hands-on workshop introducing generative models for protein design. Provides tutorials and notebooks to build, train, and evaluate pipelines for creating novel protein sequences.  
   [Generative Protein Design Workshop · GitHub](https://github.com/romainstuder/evosite3d/tree/master/tutorials/generative-protein-design-workshop)
 
+- **RFdiffusion (Python)**: Open source method for generating novel protein backbones using diffusion models, with options for tasks like motif scaffolding, binder design, symmetric oligomers, and macrocyclic peptides.  
+  [RFdiffusion · GitHub](https://github.com/RosettaCommons/RFdiffusion)
+
 ---
   
 # Whole Exome Sequencing
