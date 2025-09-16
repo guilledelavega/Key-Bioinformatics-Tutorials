@@ -48,9 +48,16 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **variancePartition (R)**: General framework for understanding drivers of variation in gene expression in experiments with complex designs.
   [variancePartition Tutorial](https://www.bioconductor.org/packages/release/bioc/vignettes/variancePartition/inst/doc/variancePartition.html)
 
+---
+  
+# Whole Exome Sequencing
+- **maftools (R)**: Toolkit to analyze single-sample WES analysis, importing MAF/VCF, performing QC, computing metrics like TMB, and producing publication-ready plots (oncoplots, lollipop, summaries).  
+  [maftools Bioconductor](https://bioconductor.org/packages/devel/bioc/vignettes/maftools/inst/doc/maftools.html)
+
+- **MesKit (R)**: Toolkit for multi-region/longitudinal tumor WES that integrates multiple biopsies from the same patient to infer clonal architecture, branch mutations, reconstruct phylogenetic trees, explore metastatic routes, and summarize mutational signatures.  
+  [MesKit Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/MesKit/inst/doc/MesKit.html#6_Measurement_of_intra-tumor_heterogeneity)
 
 ---
-
 # Single-cell RNA-seq and ATAC-seq tools
 
 - **scRNAseq Seurat (R)**: Comprehensive toolkit for single-cell RNA-seq data analysis, including clustering, visualization, and integration.  
@@ -94,24 +101,6 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 
 - **Nichenet (R)**:It predicts how ligands from sender cells influence gene expression in receiver cells by linking cell–cell communication signals to target gene regulation.  
   [Nichenet GitHub](https://github.com/saeyslab/nichenetr?tab=readme-ov-file)
-
----
-  
-# Mosaic Integration tools
-
-Mosaic integration in bioinformatics refers to computational methods that integrate heterogeneous single-cell multi-omics datasets—such as transcriptomics, epigenomics, proteomics, and spatial data—often containing missing modalities. This approach enables comprehensive analysis across diverse data types, addressing challenges like modality scalability and batch effects, and is crucial for advancing multi-omics research.
-
-- **MOFA (R)**: Multi-Omics Factor Analysis framework that identifies shared and dataset-specific factors across multi-modal data to facilitate integrative analysis.  
-  [MOFA Documentation](https://biofam.github.io/MOFA2/)
-
-- **LIGER (R)**: Uses integrative non-negative matrix factorization to jointly analyze multiple single-cell datasets, allowing identification of shared and dataset-specific features.  
-  [LIGER GitHub](https://github.com/welch-lab/liger)
-
-- **STABMAP (R)**: Statistical framework designed to integrate single-cell datasets by accounting for batch effects and other sources of variability.  
-  [STABMAP GitHub](https://github.com/MarioniLab/StabMap)
-
-- **MIDAS (Python)**: Toolkit focused on multi-omics integration for single-cell data, enabling discovery of cellular heterogeneity across modalities.  
-  [MIDAS GitHub](https://github.com/labomics/midas)
 
 ---
 # Spatial Transcriptomics Tools
@@ -167,6 +156,23 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **SpaceTrooper (R):** Provides quality control for imaging-based spatial transcriptomics data (Xenium, Merfish/Merscope, CosMx), using GLM-based outlier detection, QC metrics on cell morphology and probe counts, and visualization of cell geometries with ggplot2.  
   [SpaceTrooper Bioconductor vignette](https://bioconductor.org/packages/devel/bioc/vignettes/SpaceTrooper/inst/doc/introduction.html)
 
+---
+  
+# Mosaic Integration tools
+
+Mosaic integration in bioinformatics refers to computational methods that integrate heterogeneous single-cell multi-omics datasets—such as transcriptomics, epigenomics, proteomics, and spatial data—often containing missing modalities. This approach enables comprehensive analysis across diverse data types, addressing challenges like modality scalability and batch effects, and is crucial for advancing multi-omics research.
+
+- **MOFA (R)**: Multi-Omics Factor Analysis framework that identifies shared and dataset-specific factors across multi-modal data to facilitate integrative analysis.  
+  [MOFA Documentation](https://biofam.github.io/MOFA2/)
+
+- **LIGER (R)**: Uses integrative non-negative matrix factorization to jointly analyze multiple single-cell datasets, allowing identification of shared and dataset-specific features.  
+  [LIGER GitHub](https://github.com/welch-lab/liger)
+
+- **STABMAP (R)**: Statistical framework designed to integrate single-cell datasets by accounting for batch effects and other sources of variability.  
+  [STABMAP GitHub](https://github.com/MarioniLab/StabMap)
+
+- **MIDAS (Python)**: Toolkit focused on multi-omics integration for single-cell data, enabling discovery of cellular heterogeneity across modalities.  
+  [MIDAS GitHub](https://github.com/labomics/midas)
 
 ---
   
@@ -177,11 +183,4 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **RFdiffusion (Python)**: Open source method for generating novel protein backbones using diffusion models, with options for tasks like motif scaffolding, binder design, symmetric oligomers, and macrocyclic peptides.  
   [RFdiffusion · GitHub](https://github.com/RosettaCommons/RFdiffusion)
 
----
-  
-# Whole Exome Sequencing
-- **maftools (R)**: Toolkit to analyze single-sample WES analysis, importing MAF/VCF, performing QC, computing metrics like TMB, and producing publication-ready plots (oncoplots, lollipop, summaries).  
-  [maftools Bioconductor](https://bioconductor.org/packages/devel/bioc/vignettes/maftools/inst/doc/maftools.html)
 
-- **MesKit (R)**: Toolkit for multi-region/longitudinal tumor WES that integrates multiple biopsies from the same patient to infer clonal architecture, branch mutations, reconstruct phylogenetic trees, explore metastatic routes, and summarize mutational signatures.  
-  [MesKit Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/MesKit/inst/doc/MesKit.html#6_Measurement_of_intra-tumor_heterogeneity)
