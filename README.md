@@ -183,4 +183,7 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **RFdiffusion (Python)**: Open source method for generating novel protein backbones using diffusion models, with options for tasks like motif scaffolding, binder design, symmetric oligomers, and macrocyclic peptides.  
   [RFdiffusion · GitHub](https://github.com/RosettaCommons/RFdiffusion)
 
+- **ProteinMPNN (Python)**:
+  [ProteinMPNN · GitHub](https://github.com/dauparas/ProteinMPNN) 
+
 
