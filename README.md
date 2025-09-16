@@ -180,8 +180,8 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 ---
   
 # Whole Exome Sequencing
-- **MesKit (R)**: Toolkit for multi-region/longitudinal tumor WES that integrates multiple biopsies from the same patient to infer clonal architecture, branch mutations, reconstruct phylogenetic trees, explore metastatic routes, and summarize mutational signatures.  
-  [MesKit Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/MesKit/inst/doc/MesKit.html#6_Measurement_of_intra-tumor_heterogeneity)
-
 - **maftools (R)**: Toolkit to analyze single-sample WES analysis, importing MAF/VCF, performing QC, computing metrics like TMB, and producing publication-ready plots (oncoplots, lollipop, summaries).  
   [maftools Bioconductor](https://bioconductor.org/packages/devel/bioc/vignettes/maftools/inst/doc/maftools.html)
+
+- **MesKit (R)**: Toolkit for multi-region/longitudinal tumor WES that integrates multiple biopsies from the same patient to infer clonal architecture, branch mutations, reconstruct phylogenetic trees, explore metastatic routes, and summarize mutational signatures.  
+  [MesKit Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/MesKit/inst/doc/MesKit.html#6_Measurement_of_intra-tumor_heterogeneity)
