@@ -91,7 +91,7 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
   [InferCNV GitHub](https://github.com/broadinstitute/inferCNV/wiki)
 
 - **sccomp (R)**: Package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
-  [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html) | [sccomp explanation](https://www.sc-best-practices.org/conditions/compositional.html#why-cell-type-count-data-is-compositional)
+  [sccomp GitHub](https://github.com/MangiolaLaboratory/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html) | [sccomp explanation](https://www.sc-best-practices.org/conditions/compositional.html#why-cell-type-count-data-is-compositional)
 
 - **Liana (R)**: Computational framework designed to analyze and infer cell-cell communication (CCC) by studying interactions between ligands and receptors.  
   [Liana Tutorial](https://saezlab.github.io/liana/)
@@ -139,7 +139,7 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
   [spicyR Bioconductor](https://www.bioconductor.org/packages/release/bioc/vignettes/spicyR/inst/doc/spicyR.html)
 
 - **sccomp (R)**: Package for differential composition analysis in single-cell and compositional count data. It uses robust statistical models to identify changes in cell-type proportions between conditions, accounting for variability and overdispersion.  
-  [sccomp GitHub](https://github.com/jessegmeyer-sc/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html) | [sccomp explanation](https://www.sc-best-practices.org/conditions/compositional.html#why-cell-type-count-data-is-compositional)
+  [sccomp GitHub](https://github.com/MangiolaLaboratory/sccomp) | [sccomp Bioconductor](https://www.bioconductor.org/packages/devel/bioc/vignettes/sccomp/inst/doc/introduction.html) | [sccomp explanation](https://www.sc-best-practices.org/conditions/compositional.html#why-cell-type-count-data-is-compositional)
 
 - **statial (R)**: Toolkit for spatially resolved transcriptomics data analysis, focusing on spatial neighborhood analysis and cell-cell interaction statistics.  
   [statial Bioconductor](https://www.bioconductor.org/packages/release/bioc/vignettes/Statial/inst/doc/Statial.html#region-analysis-using-lisaclust)
