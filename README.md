@@ -184,6 +184,8 @@ Mosaic integration in bioinformatics refers to computational methods that integr
   [RFdiffusion · GitHub](https://github.com/RosettaCommons/RFdiffusion)
 
 - **ProteinMPNN (Python)**: Deep learning method that designs amino acid sequences predicted to fold into given protein backbone structures.  
-  [ProteinMPNN · GitHub](https://github.com/dauparas/ProteinMPNN) 
+  [ProteinMPNN · GitHub](https://github.com/dauparas/ProteinMPNN)
 
+- **Boltz-2 (Python)**: Open-source model for predicting protein–ligand and protein–protein interactions.  
+  [Boltz2 · GitHub](https://github.com/jwohlwend/boltz)
 
