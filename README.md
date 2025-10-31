@@ -189,3 +189,5 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **Boltz-2 (Python)**: Open-source model for predicting protein–ligand and protein–protein interactions.  
   [Boltz2 · GitHub](https://github.com/jwohlwend/boltz)
 
+- **BoltzGen (Python)**: BoltzGen is an all-atom generative model for designing and predicting 3D biomolecular structures and sequences.  
+  [Boltzgen · GitHub](https://github.com/HannesStark/boltzgen)
