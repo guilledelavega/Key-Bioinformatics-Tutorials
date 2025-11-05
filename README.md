@@ -189,7 +189,7 @@ Mosaic integration in bioinformatics refers to computational methods that integr
 - **Boltz-2 (Python)**: Energy-based generative model for predicting and designing protein–ligand or protein–protein complexes, capable of estimating binding conformations and relative affinities by sampling from learned Boltzmann distributions.    
   [Boltz2 · GitHub](https://github.com/jwohlwend/boltz)
 
-- **AlpaFold3 (Python)**: Geometry-driven deep learning system that predicts the 3D structures and interactions of proteins, nucleic acids, and small molecules with near-atomic accuracy, but does not estimate binding energies or affinities.  
+- **AlphaFold3 (Python)**: Geometry-driven deep learning system that predicts the 3D structures and interactions of proteins, nucleic acids, and small molecules with near-atomic accuracy, but does not estimate binding energies or affinities.  
   [AlpaFold3 · GitHub](https://github.com/google-deepmind/alphafold3)
 - **BoltzGen (Python)**: BoltzGen is an all-atom generative model for designing and predicting 3D biomolecular structures and sequences.  
   [Boltzgen · GitHub](https://github.com/HannesStark/boltzgen)
