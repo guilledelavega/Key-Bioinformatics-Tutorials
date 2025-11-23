@@ -48,6 +48,9 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **variancePartition (R)**: General framework for understanding drivers of variation in gene expression in experiments with complex designs.
   [variancePartition Tutorial](https://www.bioconductor.org/packages/release/bioc/vignettes/variancePartition/inst/doc/variancePartition.html)
 
+- **rrvo (R)**:  It aims at simplifying the redundance of GO sets by grouping similar terms based on their semantic similarity (parental function group).  
+  [rrvgo · GitHub](https://ssayols.github.io/rrvgo/articles/rrvgo.html)
+
 ---
   
 # Whole Exome Sequencing
