@@ -110,6 +110,9 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
  - **Squidpy (Python)** : Tutorials showcasing core Squidpy functionalities by applying them to a diverse set of different spatial datasets.  
   [Squidpy Documentation](https://squidpy.readthedocs.io/en/stable/notebooks/tutorials/index.html)
 
+- **OSTA (R)**: Online book Orchestrating Spatial Transcriptomics Analysis with Bioconductor.  
+  [OSTA Tutorial](https://bioconductor.org/books/release/OSTA/)
+
 ### Image-based Data
 - **Seurat Spatial (Image-based) (R)**: Comprehensive workflow for analyzing image-based spatial transcriptomics data using Seurat.  
   [Seurat Spatial Vignette](https://satijalab.org/seurat/articles/seurat5_spatial_vignette_2)
