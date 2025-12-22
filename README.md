@@ -165,6 +165,9 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **DESpace (R)**: DESpace is a framework for identifying spatially variable genes (SVGs) and differential spatial variable pattern (DSP) genes.  
   [DESpace vignette](https://peicai.github.io/DESpace/articles/SVG.html)
 
+- **SpatialQM (R)**: SpatialQM is a package that supports loading Spatial In-Situ datasets and calculating Quality Control metrics to aid understanding of data quality specifically tailored for In-situ spatial omics data (e.g CosMx, Xenium).
+  [SpatialQM Github](https://github.com/Center-for-Spatial-OMICs/SpatialQM)
+
 ---
   
 # Mosaic Integration tools
