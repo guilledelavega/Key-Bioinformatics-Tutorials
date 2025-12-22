@@ -162,6 +162,9 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **SpaceTrooper (R):** Provides quality control for imaging-based spatial transcriptomics data (Xenium, Merfish/Merscope, CosMx), using GLM-based outlier detection, QC metrics on cell morphology and probe counts, and visualization of cell geometries with ggplot2.  
   [SpaceTrooper Bioconductor vignette](https://bioconductor.org/packages/devel/bioc/vignettes/SpaceTrooper/inst/doc/introduction.html)
 
+- **DESpace (R)**: DESpace is a framework for identifying spatially variable genes (SVGs) and differential spatial variable pattern (DSP) genes.
+  [DESpace vignette](https://peicai.github.io/DESpace/articles/SVG.html)
+
 ---
   
 # Mosaic Integration tools
