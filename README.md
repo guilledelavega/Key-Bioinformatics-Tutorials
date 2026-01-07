@@ -109,6 +109,9 @@ Bulk RNA-seq analysis involves quantifying gene expression from pooled cell popu
 - **Nichenet (R)**:It predicts how ligands from sender cells influence gene expression in receiver cells by linking cell–cell communication signals to target gene regulation.  
   [Nichenet GitHub](https://github.com/saeyslab/nichenetr?tab=readme-ov-file)
 
+- **Pertpy (Python)**: Ecosystem framework for analyzing large-scale single-cell perturbation experiments. It provides tools for harmonizing perturbation datasets, automating metadata annotation, calculating perturbation distances, and efficiently analyzing how cells respond to various stimuli like genetic modifications, drug treatments, and environmental changes.  
+  [Pertpy Github](https://github.com/scverse/pertpy)
+
 ---
 # Spatial Transcriptomics Tools
  - **Squidpy (Python)** : Tutorials showcasing core Squidpy functionalities by applying them to a diverse set of different spatial datasets.  
